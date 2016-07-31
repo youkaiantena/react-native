@@ -1,0 +1,22 @@
+{
+  "name": "react-native",
+  "version": "1.0.0",
+  "description": "react-nativeやってみる",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youkaiantena/react-native.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youkaiantena/react-native/issues"
+  },
+  "homepage": "https://github.com/youkaiantena/react-native#readme",
+  "devDependencies": {
+    "react-native-cli": "^1.0.0"
+  }
+}
