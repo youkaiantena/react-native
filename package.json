@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/youkaiantena/react-native#readme",
   "devDependencies": {
-    "react-native-cli": "^1.0.0"
+    "react-native-cli": "^2.0.0"
   }
 }
