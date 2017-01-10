@@ -7,6 +7,6 @@
 import React, { Component } from 'react';
 import { AppRegistry } from 'react-native';
 
-import Index from './app/container/index';
+import Index from './app/container/helloworld/index';
 
 AppRegistry.registerComponent('TutorialApp', () => Index);
